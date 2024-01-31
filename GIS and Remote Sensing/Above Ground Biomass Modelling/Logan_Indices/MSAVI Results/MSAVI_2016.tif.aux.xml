@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>MSAVI</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.8001073213286</MDI>
+      <MDI key="STATISTICS_MEAN">0.68417225494157</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.58046184922341</MDI>
+      <MDI key="STATISTICS_STDDEV">0.030857248529525</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">77.79</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

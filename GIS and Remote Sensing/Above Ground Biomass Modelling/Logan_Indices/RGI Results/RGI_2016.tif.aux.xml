@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>RGI</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.16757868230343</MDI>
+      <MDI key="STATISTICS_MEAN">0.07653667550641</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.012891344726086</MDI>
+      <MDI key="STATISTICS_STDDEV">0.022054328975047</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">77.79</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
