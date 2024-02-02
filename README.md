@@ -9,5 +9,3 @@ As you explore my Data Analysis Portfolio, I hope you gain an appreciation for t
 
 Thank you for being part of the narrative within the data!
 
-Python Projects
-
