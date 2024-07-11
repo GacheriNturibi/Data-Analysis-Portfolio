@@ -1,6 +1,6 @@
 ## Unveiling Earth's Secrets: GIS & Remote Sensing Projects
 
-**Tags:** gis, remote_sensing, earth_observation, python, google_earth_engine, data_analysis, modeling
+**Tags:** gis, remote_sensing, earth_observation, python, google_earth_engine, data_analysis, CNN
 
 This repository showcases a collection of my GIS and Remote Sensing projects, offering a glimpse into my expertise in Earth observation and data analysis using Python and Google Earth Engine (GEE).
 
