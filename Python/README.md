@@ -1,6 +1,6 @@
 ## **Python: My Language of Exploration and Discovery**
 
-**Tags:** python, data analysis, NLP, web_scraping
+**Tags:** python, data analysis, NLP, web_scraping, CNN
 
 Python is more than just a programming language for me; it's a **gateway to limitless possibilities**. Its **elegant syntax** and **versatile nature** ignite my passion for **exploring data**, **crafting solutions**, and **unlocking hidden insights**.
 
