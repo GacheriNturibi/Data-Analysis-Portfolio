@@ -1,4 +1,4 @@
-## My ArcGIS StoryMap
+## My ArcGIS StoryMap - Mapping Outliers & Unusual Geographic Facts
 
 Check out my **ArcGIS StoryMap** showcasing extreme places and unusual borders:
 
