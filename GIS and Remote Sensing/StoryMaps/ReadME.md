@@ -8,4 +8,4 @@ This StoryMap seeks to highlight outlier events and quirky, surprising, or recor
 Each section focuses on a different "outlier", from natural events to human geography oddities.
 It is a work in progress, with more interesting things or events that will be added in future.
 
-Address any comments you might have to my email address: gacherinturibi@gmail.com
+Please share any comments you might have to my email address: gacherinturibi@gmail.com
