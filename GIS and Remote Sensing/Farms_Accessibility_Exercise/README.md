@@ -12,7 +12,9 @@ The analysis was conducted using **ArcGIS Pro**, focusing on the distance of far
 All source data, intermediate outputs, and the final map are included in this repository.
 
  
-> **Roads and Farms Data:** [Exercise Files](https://github.com/GacheriNturibi/Data-Analysis-Portfolio/tree/main/GIS%20and%20Remote%20Sensing/Farms_Accessibility_Exercise/Exercise%20Files)
+> **Farms Data:** [Exercise Files](https://github.com/GacheriNturibi/Data-Analysis-Portfolio/tree/main/GIS%20and%20Remote%20Sensing/Farms_Accessibility_Exercise/Exercise%20Files)
+>
+> **Roads Data:** OpenStreetMap (OSM)
 >
 > **Report:** `GIS Analysis Exercise.docx`
 >
@@ -31,7 +33,9 @@ All source data, intermediate outputs, and the final map are included in this re
   - Dissolving overlapping buffers  
   - Selecting farms beyond the buffer (90 plots identified)  
   - Area calculation for inaccessible plots (~3.55 ha)  
-  - Final map with **multi-distance buffers**  
+  - Final map with **multi-distance buffers**
+ 
+ Please note that *Euclidean Distance is misspellt in one of the output files
 
 ---
 
