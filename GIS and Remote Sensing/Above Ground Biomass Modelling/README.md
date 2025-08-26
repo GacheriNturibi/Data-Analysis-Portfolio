@@ -1,14 +1,15 @@
-![Remote Sensing](https://img.shields.io/badge/Tag-Remote--Sensing-blue)
-![Earth Engine](https://img.shields.io/badge/Tag-Earth--Engine-green)
-![Sentinel-2](https://img.shields.io/badge/Tag-Sentinel--2-lightgrey)
-![Vegetation Indices](https://img.shields.io/badge/Tag-Vegetation--Indices-brightgreen)
-![Above Ground Biomass](https://img.shields.io/badge/Tag-AGB-brown)
-![Geemap](https://img.shields.io/badge/Tag-Geemap-teal)
-![GIS](https://img.shields.io/badge/Tag-GIS-orange)
-![Machine Learning](https://img.shields.io/badge/Tag-Machine--Learning-yellow)
-![Scikit-Learn](https://img.shields.io/badge/Tag-Scikit--Learn-red)
-![XGBoost](https://img.shields.io/badge/Tag-XGBoost-purple)
-![Python](https://img.shields.io/badge/Tag-Python-blueviolet)
+[![Remote Sensing](https://img.shields.io/badge/Tag-Remote--Sensing-blue)](https://github.com/topics/remote-sensing)
+[![Earth Engine](https://img.shields.io/badge/Tag-Earth--Engine-green)](https://github.com/topics/earth-engine)
+[![Sentinel-2](https://img.shields.io/badge/Tag-Sentinel--2-lightgrey)](https://github.com/topics/sentinel-2)
+[![Vegetation Indices](https://img.shields.io/badge/Tag-Vegetation--Indices-brightgreen)](https://github.com/topics/vegetation-indices)
+[![Above Ground Biomass](https://img.shields.io/badge/Tag-AGB-brown)](https://github.com/topics/agb)
+[![Geemap](https://img.shields.io/badge/Tag-Geemap-teal)](https://github.com/topics/geemap)
+[![GIS](https://img.shields.io/badge/Tag-GIS-orange)](https://github.com/topics/gis)
+[![Machine Learning](https://img.shields.io/badge/Tag-Machine--Learning-yellow)](https://github.com/topics/machine-learning)
+[![Scikit-Learn](https://img.shields.io/badge/Tag-Scikit--Learn-red)](https://github.com/topics/scikit-learn)
+[![XGBoost](https://img.shields.io/badge/Tag-XGBoost-purple)](https://github.com/topics/xgboost)
+[![Python](https://img.shields.io/badge/Tag-Python-blueviolet)](https://github.com/topics/python)
+
 # Quantifying Above-Ground Biomass (AGB) from Sentinel-2 Indices with Google Earth Engine & ML
 
 This project estimates **Above-Ground Biomass (AGB)** for the **Griffith University Logan Campus Arboretum** (AOI) using **Sentinel-2** imagery. It:
