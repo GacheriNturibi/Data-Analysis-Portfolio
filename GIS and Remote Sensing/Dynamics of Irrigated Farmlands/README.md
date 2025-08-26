@@ -16,7 +16,7 @@ It automates the retrieval of indices, exports data for analysis, and produces v
 
 ---
 
-## 📌 Highlights
+##  Highlights
 
 - **AOI:** Mashuru region, Kenya (digitized shapefile uploaded to GEE)  
 - **Indices calculated:** NDVI, SAVI, MSAVI, OSAVI, LAI, RGI  
@@ -30,7 +30,7 @@ It automates the retrieval of indices, exports data for analysis, and produces v
 
 ---
 
-## 🗺️ Method Overview
+##  Method Overview
 
 ```mermaid
 flowchart LR
