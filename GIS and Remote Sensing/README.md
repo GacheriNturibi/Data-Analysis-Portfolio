@@ -42,7 +42,7 @@ Each project is self-contained with its own **README** (or write-up) detailing w
 
 ##  Tags
 
-`GIS` · `Remote Sensing` · `Earth Observation` · `Landsat` · `Sentinel-2` · `Urban Heat Island` · `Vegetation Indices` · `Accessibility Analysis` · `Health Geography` · `StoryMap`
+`GIS` · `Remote Sensing` · `Earth Observation` · `Landsat` · `Sentinel-2` · `Urban Heat Island` · `Vegetation Indices` · `Accessibility Analysis` · `StoryMap`
 
 ---
 **Beyond the Technical:**
