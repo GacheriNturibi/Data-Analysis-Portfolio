@@ -25,7 +25,7 @@ Each project is self-contained with its own **README** (or write-up) detailing w
 
 - **[ArcGIS StoryMap: Mapping Outliers & Unusual Geographic Facts](https://github.com/GacheriNturibi/Data-Analysis-Portfolio/tree/main/GIS%20and%20Remote%20Sensing/StoryMaps)**  
   An interactive StoryMap highlighting extreme places, unusual borders, and quirky geographic outliers.  
-  *(Work in progress — more fascinating case studies to be added!)*  
+  *(Work in progress - more fascinating case studies to be added!)*  
 
 ---
 
